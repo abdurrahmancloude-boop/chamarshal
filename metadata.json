@@ -1,0 +1,6 @@
+{
+  "name": "Butt Karahi – Commercial Market",
+  "description": "Butt Karahi – Commercial Market in Satellite Town, Rawalpindi. Explore karahi, BBQ, fish, naan, rice and traditional Pakistani food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
